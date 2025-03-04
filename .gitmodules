@@ -1,0 +1,3 @@
+[submodule "RustCameraReading"]
+	path = RustCameraReading
+	url = git@github.com:thanhdat369/RustCameraReading.git
